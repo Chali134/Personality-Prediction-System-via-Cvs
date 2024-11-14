@@ -1,0 +1,21 @@
+{
+    "name": "Ali Hassan",
+    "experience": 5,
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "Data Analysis"
+    ],
+    "soft_skills": [
+        "Communication",
+        "Problem-Solving"
+    ],
+    "certifications": [
+        "Certified Data Scientist"
+    ],
+    "interests": [
+        "Artificial Intelligence",
+        "Gaming"
+    ],
+    "personality_test_score": 85
+}

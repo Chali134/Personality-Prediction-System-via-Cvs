@@ -1,0 +1,21 @@
+{
+    "name": "Zara Malik",
+    "experience": 3,
+    "skills": [
+        "JavaScript",
+        "Web Development",
+        "React"
+    ],
+    "soft_skills": [
+        "Adaptability",
+        "Teamwork"
+    ],
+    "certifications": [
+        "Web Developer Certification"
+    ],
+    "interests": [
+        "Photography",
+        "Travel"
+    ],
+    "personality_test_score": 90
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Ayesha Farooq",
+    "experience": 4,
+    "skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices"
+    ],
+    "soft_skills": [
+        "Leadership",
+        "Time Management"
+    ],
+    "certifications": [
+        "Java Certification"
+    ],
+    "interests": [
+        "Blogging",
+        "Cycling"
+    ],
+    "personality_test_score": 88
+}

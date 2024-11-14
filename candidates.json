@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Ali Hassan",
+        "experience": 3,
+        "skills": ["data analysis", "python", "machine learning", "sql"],
+        "soft_skills": ["communication", "problem-solving"],
+        "certifications": ["Data Science Professional Certificate"],
+        "interests": ["data-driven decision making", "predictive analytics"],
+        "personality_test_score": 85
+    },
+    {
+        "name": "Sara Ahmed",
+        "experience": 2,
+        "skills": ["python", "data visualization", "big data", "sql"],
+        "soft_skills": ["teamwork", "adaptability"],
+        "certifications": ["Machine Learning Certificate"],
+        "interests": ["AI", "automation"],
+        "personality_test_score": 75
+    },
+    {
+        "name": "Bilal Khan",
+        "experience": 5,
+        "skills": ["python", "data science", "machine learning", "hadoop"],
+        "soft_skills": ["critical thinking", "communication"],
+        "certifications": ["Advanced Data Science Certificate"],
+        "interests": ["big data", "deep learning"],
+        "personality_test_score": 90
+    },
+    {
+        "name": "Zara Malik",
+        "experience": 4,
+        "skills": ["python", "data analysis", "sql", "machine learning"],
+        "soft_skills": ["communication", "teamwork"],
+        "certifications": ["Data Analysis Certificate"],
+        "interests": ["AI", "data engineering"],
+        "personality_test_score": 80
+    },
+    {
+        "name": "Umar Shah",
+        "experience": 1,
+        "skills": ["data visualization", "big data", "python"],
+        "soft_skills": ["adaptability", "problem-solving"],
+        "certifications": ["Data Science Certificate"],
+        "interests": ["predictive analytics", "data insights"],
+        "personality_test_score": 70
+    },
+    {
+        "name": "Ayesha Farooq",
+        "experience": 3,
+        "skills": ["sql", "data visualization", "python"],
+        "soft_skills": ["communication", "adaptability"],
+        "certifications": ["Data Engineering Certificate"],
+        "interests": ["machine learning", "data analysis"],
+        "personality_test_score": 78
+    },
+    {
+        "name": "Kamran Ali",
+        "experience": 4,
+        "skills": ["python", "machine learning", "data analysis", "big data"],
+        "soft_skills": ["critical thinking", "teamwork"],
+        "certifications": ["Advanced Data Science Certificate"],
+        "interests": ["deep learning", "AI"],
+        "personality_test_score": 88
+    }
+]
